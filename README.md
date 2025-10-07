@@ -1,1 +1,1 @@
-# my-first-repo this my first project
+# Added project title to README
